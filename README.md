@@ -6,6 +6,7 @@ This application was developed to fulfill the requirements of the International 
 ## Built With
 
 PyTorch
+
 DistilBERT (Hugging Face)
 
 ### Prerequisites
