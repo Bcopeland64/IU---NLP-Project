@@ -11,8 +11,11 @@ DistilBERT (Hugging Face)
 ### Prerequisites
 
 torch
+
 transformers
+
 scikit-learn
+
 gradio
 
 ```
