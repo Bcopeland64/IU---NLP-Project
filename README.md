@@ -10,13 +10,15 @@ DistilBERT (Hugging Face)
 
 ### Prerequisites
 
-torch
+The latest versions of the following frameworks must be installed: 
 
-transformers
+Torch
 
-scikit-learn
+Transformers
 
-gradio
+Scikit-learn
+
+Gradio
 
 ```
 
