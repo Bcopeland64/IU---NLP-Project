@@ -1,0 +1,4 @@
+﻿torch==1.9.0
+transformers==4.10.0
+scikit-learn==0.24.2
+gradio==2.3.0
